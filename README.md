@@ -90,3 +90,14 @@ Search Student
 	Name: you
 	Roll Number: 2
 	Marks: 300
+	
+Deleting a Student
+	Student Management System
+	1. Add Student
+	2. Display All Students
+	3. Search Student
+	4. Delete Student
+	5. Exit
+	Enter your choice: 4
+	Enter roll number to delete: 3
+	Student with roll number 3 deleted successfully
