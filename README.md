@@ -7,17 +7,8 @@ This code is a simple implementation of a Student Management System. It includes
 
 $./StudentManagement
 
-No student added yet
-	Student Management System
-	1. Add Student
-	2. Display All Students
-	3. Search Student
-	4. Delete Student
-	5. Exit
-	Enter your choice: 2
-	No students added yet
-
 Adding Students
+
 	Student Management System
 	1. Add Student
 	2. Display All Students
@@ -55,6 +46,7 @@ Adding Students
 	Student added successfully
 
 Displaying all student in the System
+
 	Student Management System
 	1. Add Student
 	2. Display All Students
@@ -78,6 +70,7 @@ Displaying all student in the System
 	Marks: 250
 	
 Search Student
+
 	Student Management System
 	1. Add Student
 	2. Display All Students
@@ -92,6 +85,7 @@ Search Student
 	Marks: 300
 	
 Deleting a Student
+
 	Student Management System
 	1. Add Student
 	2. Display All Students
