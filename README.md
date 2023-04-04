@@ -76,3 +76,17 @@ Displaying all student in the System
 	Name: que
 	Roll Number: 3
 	Marks: 250
+	
+Search Student
+	Student Management System
+	1. Add Student
+	2. Display All Students
+	3. Search Student
+	4. Delete Student
+	5. Exit
+	Enter your choice: 3
+	Enter roll number to search: 2
+	Student found:
+	Name: you
+	Roll Number: 2
+	Marks: 300
